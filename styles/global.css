@@ -36,6 +36,20 @@ a {
     }
 }
 
+.container{
+    max-width: 1280px;
+    padding-inline: 32px;
+    margin-inline: auto;
+}
+
 h1, h2, h3 {
     font: inherit;
+}
+
+.grid {
+    display: grid;
+}
+
+.grid-flow-col {
+    grid-auto-flow: column;
 }
