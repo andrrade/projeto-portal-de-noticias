@@ -1,4 +1,4 @@
-# Desafio Prático - Portal de Notícias
+# Projeto - Portal de Notícias
 Acesse meu projeto em: <a href="https://andrrade.github.io/projeto-portal-de-noticias/" target="_blank">https://andrrade.github.io/projeto-portal-de-noticias//</a>
 <br><br>
 
