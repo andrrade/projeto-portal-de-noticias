@@ -1,7 +1,7 @@
 # Projeto - Portal de Notícias
 
 <p align="center">
-  <img alt="Logo do Projeto" src="https://github.com/user-attachments/assets/39908634-2aee-4435-8513-fb952559fe3c" width="200px" />
+  <img alt="Logo da Rocketseat" src="https://github.com/user-attachments/assets/39908634-2aee-4435-8513-fb952559fe3c" width="200px" />
 </p>
 
 <p align="center">
