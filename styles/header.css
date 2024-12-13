@@ -1,27 +1,25 @@
-/* Header.css */
+#primary {
+  padding-block: 20px;
 
-#primary{
-    padding-block: 20px;
-    
-    div{
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-  
-    div:nth-child(2){
-      margin-inline: auto;
-    }
-  
-    div:nth-child(3){
-      justify-self: end;
-    }
-  
+  div {
+    display: flex;
+    align-items: center;
+    gap: 8px;
   }
-  
-  #secondary{
-    padding-block: 14px;
-    border: solid 1px var(--stroke-color);
-    border-inline: none;
-    justify-content: space-between;
+
+  /* nesting css */
+  div:nth-child(2) {
+    margin-inline: auto;
   }
+
+  div:nth-child(3) {
+    justify-self: end;
+  }
+}
+
+#secondary {
+  padding-block: 14px;
+  border: solid 1px var(--stroke-color);
+  border-inline: none;
+  justify-content: space-between;
+}
