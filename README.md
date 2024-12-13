@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Breve descrição sobre o projeto. Explique o propósito ou funcionalidade principal.
+  Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocketseat.
 </p>
 
 <p align="center">
