@@ -1,13 +1,7 @@
 # Projeto - Portal de Notícias
 
-Acesse meu projeto em: <a href="https://andrrade.github.io/projeto-portal-de-noticias/" target="_blank">https://andrrade.github.io/projeto-portal-de-noticias//</a>
+Acesse meu projeto em: <a href="https://projeto-portal-de-noticias-one.vercel.app/" target="_blank">https://projeto-portal-de-noticias-one.vercel.app</a>
 <br><br>
-
-# 🚀 Tecnoogias Utilizadas
-
-- HTML
-- CSS
-- GitHub
 
 <p align="center">
   <img alt="Logo - Rocketseat" src=".github/logo.png" width="200px" />
