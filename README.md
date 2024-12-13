@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocketseat.
+  Projeto de um Portal de Notícias desenvolvido durante as aulas de Grid na Rocketseat.
 </p>
 
 <p align="center">
