@@ -1,20 +1,18 @@
 # Projeto - Portal de Notícias
 
-Acesse meu projeto em: <a href="https://projeto-portal-de-noticias-one.vercel.app/" target="_blank">https://projeto-portal-de-noticias-one.vercel.app</a>
-<br><br>
-
 <p align="center">
-  <img alt="Logo - Rocketseat" src="https://github.com/user-attachments/assets/39908634-2aee-4435-8513-fb952559fe3c" width="200px" />
+  <img alt="Logo do Projeto" src="https://github.com/user-attachments/assets/39908634-2aee-4435-8513-fb952559fe3c" width="200px" />
 </p>
 
 <p align="center">
-Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocketseat.
+Breve descrição sobre o projeto. Explique o propósito ou funcionalidade principal.
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-link-do-projeto">Link do Projeto</a>
 </p>
 
 <p align="center">
@@ -23,13 +21,30 @@ Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocke
 
 <br>
 
+---
+
+##  📂 Projeto
+
 <p align="center">
-  <img alt="Projeto desenvolvido." src="https://github.com/user-attachments/assets/28821e82-0a4d-4f98-b14c-9717ef7e45b5">
+  <img alt="Projeto" src="https://github.com/user-attachments/assets/28821e82-0a4d-4f98-b14c-9717ef7e45b5">
 </p>
+
+---
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido utilizando:
 
 - HTML
 - CSS
+
+---
+
+## 🔗 Link do Projeto
+
+Para acessar o projeto <a href="https://link-do-projeto.vercel.app/" target="_blank">Clique Aqui</a>.
+
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
