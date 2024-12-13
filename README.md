@@ -4,7 +4,7 @@ Acesse meu projeto em: <a href="https://projeto-portal-de-noticias-one.vercel.ap
 <br><br>
 
 <p align="center">
-  <img alt="Logo - Rocketseat" src=".github/logo.png" width="200px" />
+  <img alt="Logo - Rocketseat" src="https://github.com/user-attachments/assets/39908634-2aee-4435-8513-fb952559fe3c" width="200px" />
 </p>
 
 <p align="center">
